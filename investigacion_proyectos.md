@@ -1,7 +1,7 @@
 # Investigación de Proyectos de Inteligencia Artificial
 
 **Asignatura:** Inteligencia Artificial (Semestre 6)  
-**Institución:** COTECNOVA  
+**Institución:** COTECNOVA — Tecnología en Gestión de Sistemas de Información  
 **Estudiantes:** Brandon Cortes Giraldo — Johan Sttive Linares Barragán  
 **Actividad:** Actividad Independiente - Clase 1 (Exploración del Banco de Proyectos)
 
