@@ -1,0 +1,11 @@
+services:
+  python:
+    build: .
+    container_name: python_ia
+    volumes:
+      - ./src:/app/src
+      - ./notebooks:/app/notebooks
+      - ./data:/app/data
+    working_dir: /app
+    command: tail -f /dev/null
+    ###command: python src/main.py
