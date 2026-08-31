@@ -1,0 +1,16 @@
+id,barrio,tipo_dano,gravedad,area_m2,costo_estimado_cop,prioridad
+1,El Prado,Hueco profundo,9,3.5,450000,Critica
+2,San Jeronimo,Grieta longitudinal,5,1.2,180000,Media
+3,Zaragoza,Hundimiento,8,4.0,520000,Alta
+4,Centro,Bache,4,0.8,120000,Baja
+5,La Isabela,Hueco profundo,9,2.8,380000,Critica
+6,Santa Ana,Fisura,3,0.5,90000,Baja
+7,Los Almendros,Hundimiento,7,3.1,410000,Alta
+8,Bellavista,Grieta transversal,6,1.9,230000,Media
+9,San Nicolas,Hueco profundo,10,4.8,600000,Critica
+10,Alamos,Bache,4,1.0,140000,Baja
+11,El Cipres,Hueco profundo,8,2.5,350000,Alta
+12,Ortiz,Grieta longitudinal,5,1.5,190000,Media
+13,Jorge Eliecer Gaitan,Hundimiento,9,3.9,490000,Critica
+14,La Florida,Fisura,2,0.4,80000,Baja
+15,Mariscal Sucre,Hueco profundo,8,3.0,400000,Alta
