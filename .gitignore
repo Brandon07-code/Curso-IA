@@ -9,3 +9,5 @@ venv/
 data/raw/
 *.docx
 ~$*
+material_video/temp_segments/
+*.mp4

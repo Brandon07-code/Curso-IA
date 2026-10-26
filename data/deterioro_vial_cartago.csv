@@ -4,13 +4,118 @@ id,barrio,tipo_dano,gravedad,area_m2,costo_estimado_cop,prioridad
 3,Zaragoza,Hundimiento,8,4.0,520000,Alta
 4,Centro,Bache,4,0.8,120000,Baja
 5,La Isabela,Hueco profundo,9,2.8,380000,Critica
-6,Santa Ana,Fisura,3,0.5,90000,Baja
-7,Los Almendros,Hundimiento,7,3.1,410000,Alta
-8,Bellavista,Grieta transversal,6,1.9,230000,Media
-9,San Nicolas,Hueco profundo,10,4.8,600000,Critica
-10,Alamos,Bache,4,1.0,140000,Baja
-11,El Cipres,Hueco profundo,8,2.5,350000,Alta
-12,Ortiz,Grieta longitudinal,5,1.5,190000,Media
-13,Jorge Eliecer Gaitan,Hundimiento,9,3.9,490000,Critica
-14,La Florida,Fisura,2,0.4,80000,Baja
-15,Mariscal Sucre,Hueco profundo,8,3.0,400000,Alta
+6,Los Almendros,Fisura,2,0.5,75000,Baja
+7,Alamos,Bache,6,1.8,220000,Media
+8,Bellavista,Hundimiento,7,3.2,410000,Alta
+9,Mariscal Sucre,Grieta transversal,3,0.7,95000,Baja
+10,Ortiz,Bache,5,1.5,190000,Media
+11,La Floresta,Hueco profundo,10,4.5,680000,Critica
+12,Santa Ana,Grieta longitudinal,4,1.0,130000,Baja
+13,San Nicolas,Hundimiento,8,3.8,490000,Alta
+14,Jorge Eliecer Gaitan,Bache,6,2.0,260000,Media
+15,El Cipres,Hueco profundo,8,2.5,340000,Alta
+16,La Floresta,Bache,4,2.06,220000,Media
+17,San Jeronimo,Hueco profundo,7,4.21,600000,Critica
+18,Ortiz,Grieta transversal,2,0.43,30000,Baja
+19,San Jeronimo,Hundimiento,6,4.24,710000,Critica
+20,La Floresta,Fisura,4,0.98,70000,Media
+21,La Isabela,Bache,4,1.99,220000,Media
+22,La Isabela,Hueco profundo,8,5.53,960000,Critica
+23,El Prado,Bache,5,1.16,130000,Media
+24,Ortiz,Grieta longitudinal,3,1.59,170000,Baja
+25,El Prado,Grieta transversal,2,1.01,80000,Baja
+26,Ortiz,Hueco profundo,7,1.68,270000,Alta
+27,San Nicolas,Grieta longitudinal,3,1.78,140000,Baja
+28,Alamos,Grieta longitudinal,6,2.05,190000,Media
+29,Zaragoza,Grieta longitudinal,5,1.21,110000,Media
+30,Santa Ana,Fisura,1,0.69,40000,Baja
+31,Mariscal Sucre,Fisura,2,0.53,30000,Baja
+32,La Isabela,Fisura,2,0.95,70000,Baja
+33,San Nicolas,Bache,4,2.2,240000,Media
+34,Alamos,Grieta longitudinal,3,0.82,90000,Baja
+35,El Cipres,Fisura,3,0.77,50000,Baja
+36,Alamos,Fisura,4,0.91,50000,Media
+37,San Jeronimo,Fisura,3,1.2,80000,Baja
+38,El Cipres,Hundimiento,9,4.05,520000,Critica
+39,Mariscal Sucre,Grieta transversal,2,1.23,80000,Baja
+40,Zaragoza,Fisura,2,1.03,70000,Baja
+41,Ortiz,Bache,5,1.65,200000,Media
+42,Mariscal Sucre,Grieta longitudinal,3,1.52,120000,Baja
+43,La Floresta,Hundimiento,8,5.47,780000,Critica
+44,El Prado,Grieta longitudinal,6,1.34,90000,Media
+45,Santa Ana,Fisura,3,1.38,100000,Baja
+46,Zaragoza,Hundimiento,6,5.48,760000,Critica
+47,Jorge Eliecer Gaitan,Fisura,2,0.52,40000,Baja
+48,Zaragoza,Hundimiento,6,4.4,670000,Critica
+49,Centro,Bache,5,2.49,270000,Media
+50,San Jeronimo,Bache,4,2.29,220000,Media
+51,El Prado,Fisura,4,1.45,110000,Media
+52,Mariscal Sucre,Hueco profundo,8,4.34,660000,Critica
+53,La Isabela,Hundimiento,9,6.46,1000000,Critica
+54,San Nicolas,Fisura,2,0.97,60000,Baja
+55,La Floresta,Fisura,3,0.95,60000,Baja
+56,Bellavista,Bache,4,1.18,130000,Media
+57,Centro,Hundimiento,7,4.55,550000,Critica
+58,El Prado,Fisura,1,0.38,30000,Baja
+59,Centro,Grieta longitudinal,3,1.27,110000,Baja
+60,La Floresta,Grieta transversal,3,1.19,120000,Baja
+61,Ortiz,Grieta transversal,3,1.46,130000,Baja
+62,San Jeronimo,Bache,4,1.92,220000,Media
+63,Alamos,Grieta transversal,5,1.95,120000,Media
+64,La Floresta,Fisura,1,0.25,20000,Baja
+65,Los Almendros,Bache,4,1.13,140000,Media
+66,Bellavista,Hueco profundo,10,2.83,540000,Critica
+67,San Jeronimo,Bache,5,2.37,300000,Media
+68,El Prado,Bache,6,2.9,260000,Alta
+69,El Prado,Hueco profundo,8,3.33,640000,Critica
+70,San Jeronimo,Grieta transversal,2,0.58,30000,Baja
+71,Alamos,Grieta longitudinal,6,1.53,160000,Media
+72,La Floresta,Fisura,4,0.92,50000,Media
+73,San Jeronimo,Bache,6,2.45,230000,Media
+74,Santa Ana,Grieta longitudinal,3,0.58,60000,Baja
+75,Mariscal Sucre,Hundimiento,7,2.43,370000,Alta
+76,El Prado,Hueco profundo,7,3.88,620000,Critica
+77,Alamos,Bache,6,1.62,210000,Media
+78,Centro,Hundimiento,6,3.68,580000,Alta
+79,Ortiz,Hundimiento,8,6.14,820000,Critica
+80,La Floresta,Fisura,3,0.79,50000,Baja
+81,Zaragoza,Fisura,3,0.97,70000,Baja
+82,El Cipres,Bache,4,1.58,200000,Media
+83,El Prado,Bache,6,1.56,170000,Media
+84,Zaragoza,Grieta longitudinal,3,1.82,170000,Baja
+85,La Isabela,Hueco profundo,10,5.43,920000,Critica
+86,Ortiz,Fisura,1,0.73,50000,Baja
+87,La Isabela,Fisura,1,0.95,50000,Baja
+88,La Isabela,Bache,4,2.06,210000,Media
+89,La Isabela,Grieta longitudinal,4,1.78,150000,Media
+90,La Floresta,Fisura,3,1.0,60000,Baja
+91,El Cipres,Bache,4,1.88,200000,Media
+92,Centro,Bache,5,2.31,300000,Media
+93,La Isabela,Hueco profundo,10,4.31,800000,Critica
+94,Mariscal Sucre,Bache,4,0.93,130000,Media
+95,El Cipres,Hueco profundo,7,4.84,720000,Critica
+96,Alamos,Hueco profundo,7,2.73,370000,Alta
+97,El Cipres,Grieta longitudinal,4,1.72,130000,Media
+98,Los Almendros,Hundimiento,9,6.5,1100000,Critica
+99,Zaragoza,Hueco profundo,8,5.6,860000,Critica
+100,El Cipres,Grieta transversal,2,0.6,50000,Baja
+101,San Nicolas,Grieta transversal,3,0.89,60000,Baja
+102,Alamos,Bache,5,1.38,170000,Media
+103,Los Almendros,Grieta longitudinal,4,1.03,90000,Media
+104,Alamos,Grieta longitudinal,5,2.2,190000,Media
+105,Los Almendros,Fisura,4,1.34,100000,Media
+106,Mariscal Sucre,Grieta longitudinal,3,0.67,60000,Baja
+107,Zaragoza,Hundimiento,8,2.55,410000,Alta
+108,Alamos,Grieta longitudinal,5,1.55,160000,Media
+109,El Prado,Grieta transversal,3,0.88,80000,Baja
+110,Centro,Hundimiento,7,3.66,460000,Critica
+111,La Floresta,Grieta longitudinal,5,1.9,150000,Media
+112,Santa Ana,Grieta longitudinal,5,1.9,170000,Media
+113,Alamos,Fisura,3,1.04,60000,Baja
+114,Alamos,Fisura,4,1.34,110000,Media
+115,Zaragoza,Hundimiento,8,4.02,700000,Critica
+116,Centro,Grieta longitudinal,5,1.22,130000,Media
+117,Ortiz,Fisura,3,0.97,60000,Baja
+118,La Floresta,Hueco profundo,10,5.27,800000,Critica
+119,La Floresta,Bache,5,1.88,250000,Media
+120,Ortiz,Grieta longitudinal,3,1.73,150000,Baja
